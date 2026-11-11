@@ -84,7 +84,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({
           <div className="lg:col-span-5">
             <div className="relative rounded-2xl overflow-hidden border border-zinc-800 shadow-2xl bg-zinc-900 group">
               <img
-                src="/src/assets/images/hero_china_garden_dining_1794221370792.jpg"
+                src="/images/hero_china_garden_dining_1794221370792.jpg"
                 alt="China Garden Dhaka Warm Amber Dining Room and Woodwork"
                 className="w-full h-80 sm:h-96 lg:h-[460px] object-cover transition-transform duration-700 group-hover:scale-105"
                 referrerPolicy="no-referrer"
